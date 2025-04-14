@@ -1,0 +1,39 @@
+/* src/pages/Profile.css */
+
+.profile-container {
+    padding: 60px 20px;
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #fff;
+  }
+  
+  .profile-title {
+    font-size: 2rem;
+    color: #e1306c;
+    margin-bottom: 30px;
+  }
+  
+  .profile-box {
+    background: #f9f9f9;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.05);
+  }
+  
+  .profile-box p {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .info-note {
+    font-size: 14px;
+    color: #888;
+  }
+  
+  .error-msg {
+    color: red;
+    font-size: 18px;
+  }
+  
